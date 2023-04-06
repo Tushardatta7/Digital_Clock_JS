@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap");
+
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url("https://media.istockphoto.com/id/1361245717/photo/time-is-running-out-concept-with-alarm-clock-aside-3d-rendering.jpg?s=1024x1024&w=is&k=20&c=Ghpk2xgxw7-SBtE5H6S9KuNLuLeIeW1USGRnuqML1tE=");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/* .col{
+  background-color: rgb(80, 156, 226);
+} */
+.card{
+  background-color: rgb(80, 156, 226);
+}
